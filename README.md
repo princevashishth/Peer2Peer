@@ -10,7 +10,7 @@
      g++ P2P_multiclient.c -o p2p
 <li> Run the file by 
 
-    ./p2p </li>
+    ./p2p 
 <li> Provide the number of peers with their names and their respective IP address </li>
 <li> send the message by 
 
