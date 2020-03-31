@@ -4,7 +4,7 @@
 <li> Every instance of the chat application runs a TCP server where the chat application listens for incoming connections. The same process of the application also runs one or multiple TCP clients (based on the number of peers) to connect to the other users and transfer messages </li>
 
 <li>There can be a maximum of 5 peers</li>
-## Usage
+# Usage
 
 <li> Make sure to compile the program by typing
 
