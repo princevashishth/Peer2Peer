@@ -5,7 +5,6 @@
 
 <li>There can be a maximum of 5 peers</li>
 # Usage
-
 <li> Make sure to compile the program by typing
 
 g++ P2P_multiclient.c -o p2p
